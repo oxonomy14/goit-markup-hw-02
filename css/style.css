@@ -1,0 +1,42 @@
+body {
+font-family: "Roboto", "Raleway", sans-serif;
+color: #434455;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+width: 1440px;
+background-color: #fff;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4D5AE5;
+}
+
+a:focus {
+  color: #4D5AE5;
+}
+
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:hover {
+color: #4D5AE5;
+}
+
+button:focus {
+color: #4D5AE5;
+}
