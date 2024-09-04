@@ -29,7 +29,7 @@ button:focus {
   color: #4d5ae5;
 }
 
-/* HEADER - Шапка сайта */
+/* HEADER - Шапка сайта - Начало */
 
 .main_logo {
   font-family: "Raleway", sans-serif;
@@ -80,13 +80,41 @@ color: #434455
   color: #404bbf;
 }
 
-/* HEADER - Шапка сайта */
+/* HEADER - Шапка сайта - Конец */
+
+/*FIRST SECTION  - Начало*/
+.section_top{
+  background-color: #2e2f42;
+ font-weight: 700;
+font-size: 56px;
+line-height: 107%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+.button_section_top {
+  background-color: #4D5AE5;
+  font-weight: 500; 
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.04em;
+color: #fff;
+}
+.button_section_top:hover {
+  background-color: #404BBF;
+}
+.button_section_top:focus {
+  background-color: #404BBF;
+}
 
 
 
 
+/*FIRST SECTION - Конец */
 
-/*FOOTER - Подвал сайта */
+
+
+/*FOOTER - Подвал сайта - Начало */
 
 .footer {
 background-color: #2e2f42;
@@ -111,3 +139,5 @@ line-height: 1.5;
 color: #F4F4FD;
 letter-spacing: 0.02em
 }
+
+/*FOOTER - Подвал сайта - Конец */
