@@ -29,7 +29,7 @@ button:focus {
   color: #4d5ae5;
 }
 
-/* HEADER */
+/* HEADER - Шапка сайта */
 
 .main_logo {
   font-family: "Raleway", sans-serif;
@@ -63,11 +63,6 @@ button:focus {
 
 .address {
 font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
 }
 
 .address_link {
@@ -83,4 +78,36 @@ color: #434455
 
 .address_link:focus {
   color: #404bbf;
+}
+
+/* HEADER - Шапка сайта */
+
+
+
+
+
+/*FOOTER - Подвал сайта */
+
+.footer {
+background-color: #2e2f42;
+}
+
+.footer_logo {
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+
+.footer_logo_span {
+  color: #f4f4fd;
+}
+
+.footer_descr {
+line-height: 1.5;
+color: #F4F4FD;
+letter-spacing: 0.02em
 }
