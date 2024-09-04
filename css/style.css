@@ -60,3 +60,27 @@ button:focus {
 .nav_link:focus {
   color: #404bbf;
 }
+
+.address {
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.address_link {
+  font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455
+}
+
+.address_link:hover {
+  color: #404bbf;
+}
+
+.address_link:focus {
+  color: #404bbf;
+}
