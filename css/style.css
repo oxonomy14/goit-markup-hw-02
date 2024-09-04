@@ -83,7 +83,7 @@ color: #434455
 /* HEADER - Шапка сайта - Конец */
 
 /*FIRST SECTION  - Начало*/
-.section_top{
+.section_top_title{
   background-color: #2e2f42;
  font-weight: 700;
 font-size: 56px;
@@ -92,7 +92,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 }
-.button_section_top {
+.section_top_button {
   background-color: #4D5AE5;
   font-weight: 500; 
 font-size: 16px;
