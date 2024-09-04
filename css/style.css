@@ -83,8 +83,13 @@ color: #434455
 /* HEADER - Шапка сайта - Конец */
 
 /*FIRST SECTION  - Начало*/
+
+.section_top {
+background-color: #2e2f42;
+}
+
 .section_top_title{
-  background-color: #2e2f42;
+  
  font-weight: 700;
 font-size: 56px;
 line-height: 107%;
@@ -100,20 +105,16 @@ line-height: 150%;
 letter-spacing: 0.04em;
 color: #fff;
 }
-.button_section_top:hover {
+.section_top_button:hover {
   background-color: #404BBF;
 }
-.button_section_top:focus {
+.section_top_button:focus {
   background-color: #404BBF;
 }
 
 /*FIRST SECTION - Конец */
 
 /*SECOND SECTION  - Начало*/
-
-
-
-/*SECOND SECTION - Конец */
 
 .section_second_title {
 font-weight: 500;
@@ -131,6 +132,8 @@ line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
 }
+
+/*SECOND SECTION - Конец */
 
 /*FOOTER - Подвал сайта - Начало */
 
