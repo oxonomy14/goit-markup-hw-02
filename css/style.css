@@ -107,12 +107,30 @@ color: #fff;
   background-color: #404BBF;
 }
 
-
-
-
 /*FIRST SECTION - Конец */
 
+/*SECOND SECTION  - Начало*/
 
+
+
+/*SECOND SECTION - Конец */
+
+.section_second_title {
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.section_second_descr {
+
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
+}
 
 /*FOOTER - Подвал сайта - Начало */
 
